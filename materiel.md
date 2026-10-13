@@ -5,4 +5,5 @@
 - origine
 - formation
 - activité
+- fortune
 - appartenance à un courant
