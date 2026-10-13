@@ -4,5 +4,5 @@
 - lieu de naissance
 - origine
 - formation
-- occupation
+- activité
 - appartenance à un courant
